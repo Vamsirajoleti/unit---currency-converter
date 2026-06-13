@@ -2,6 +2,8 @@
 
 A modern, responsive, and lightweight web application built with Vanilla JavaScript, HTML5, and CSS3 that handles standard unit conversions and real-time currency exchanges.
 
+live Demo : https://vamsirajoleti.github.io/unit---currency-converter/
+
 ## Features
 * **Unit Converter**: Supports Length, Weight, Temperature, Time, and Speed conversions.
 * **Currency Converter**: Fetches live exchange rates using the Free Exchange Rate API.
